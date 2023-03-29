@@ -85,11 +85,11 @@
 
 <div align="left">
 	
-<img  height="220"  src="https://github-readme-stats.vercel.app/api?username=hi6724&show_icons=true&theme=tokyonight" />
+<img  height='140px'  src="https://github-readme-stats.vercel.app/api?username=hi6724&show_icons=true&theme=tokyonight" />
 &nbsp;&nbsp;
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi6724&layout=compact&theme=tokyonight"/>
+<img height='140px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi6724&layout=compact&theme=tokyonight"/>
 <br/><br/>
 
-<img  height="200" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi6724"/>
+<img  height='140px' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi6724"/>
 
 </div>
