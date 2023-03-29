@@ -82,10 +82,14 @@
 
 
 ## My Status
-<div align="center">	
-<img align="center" height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi6724"/>
-&nbsp;&nbsp;&nbsp;
-<img align="center" height="150"  src="https://github-readme-stats.vercel.app/api?username=hi6724&show_icons=true&theme=tokyonight" />
-&nbsp;&nbsp;&nbsp;	
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi6724&layout=compact&theme=tokyonight"/>
+
+<div align="left">
+	
+<img  height="220"  src="https://github-readme-stats.vercel.app/api?username=hi6724&show_icons=true&theme=tokyonight" />
+&nbsp;&nbsp;
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi6724&layout=compact&theme=tokyonight"/>
+<br/><br/>
+
+<img  height="200" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi6724"/>
+
 </div>
