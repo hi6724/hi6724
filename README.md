@@ -27,12 +27,12 @@
 <br/>
 
 	
-## My Skill Set  
+## 𝑴𝒚 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕
 
 
 
 
-### Frontend  
+### 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝
 <div align="left">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -50,7 +50,7 @@
 
 
 
-### BACKEND  
+### 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 
 <div align="left">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/hi6724/hi6724/raw/main/icons8-express-js-256.png" alt="Express.js" height="50" /></a>  
@@ -64,7 +64,7 @@
 
 
 
-### TOOLS  
+### 𝐓𝐨𝐨𝐥𝐬  
 <div align="left">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -77,11 +77,11 @@
 
 
 
-## My Status
+## 𝑴𝒚 𝑺𝒕𝒂𝒕𝒖𝒔
 
 <div align="left">
 	
-<img  height='140px'  src="https://github-readme-stats.vercel.app/api?username=hi6724&show_icons=true&theme=tokyonight" />
+<img  height='140px'  src="https://github-readme-stats.vercel.app/api?username=hi6724&show_icons=true&theme=tokyonight&count_private=true" />
 &nbsp;&nbsp;
 <img height='140px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi6724&layout=compact&theme=tokyonight"/>
 <br/><br/>
