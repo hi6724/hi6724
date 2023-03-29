@@ -1,15 +1,24 @@
 <h1 align="center">안녕하세요  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h2 align="center"> 프론트엔드 개발자 하훈목입니다 </h2>
 
-### <div align="left"> 프론트엔드 개발자 하훈목입니다 </div>  
-  
+<div align="left">
+<img align="left" width='350' src="https://github.com/hi6724/hi6724/raw/main/blogQR.png" />
 
-- 🔭 삼성 청년 SW아카데미에 다니고 있습니다 (2022.07~2023.06)  
-  
-- 🌱 현재 three.js와 Next.js와 같은 인기있는 프론트엔드 기술을 공부하고 있습니다.  
-- ⚡ Solid.js와 
-  
+&nbsp;&nbsp;&nbsp;
+
+🔭 삼성 청년 SW아카데미에 다니고 있습니다 (2022.07~2023.06)<br/>
+🌱 현재 three.js와 Next.js와 같은 인기있는 프론트엔드 기술을 공부하고 있습니다.  <br/>
+⚡ Solid.js와 <br/>
+ 
+</div>
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
