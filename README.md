@@ -4,7 +4,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi6724%2Fhit-counter&count_bg=%23047C5A&title_bg=%23DD3E59&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hunmok1027@gmail.com) 
+[![Npm Badge](https://img.shields.io/badge/npm-ea2039?style=flat&logo=Npm&logoColor=white)](https://www.npmjs.com/~hunmok1027)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-000079?style=flat&logoColor=white)](https://velog.io/@hunmok1027)
+
 
 
 <br/>
