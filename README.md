@@ -11,16 +11,17 @@
 
 
 <div align="center">
-<a align="center" href="http://hunmok.shop/">
-<img align="center" width='250' src="https://github.com/hi6724/hi6724/raw/main/blogQR.png" />
+<a align="center" href="http://hunmok.com/">
+<img align="center" width='250' src="https://github.com/hi6724/hi6724/assets/68803719/fc213562-f55b-40d7-817b-f9a24a4b6d55" />
+
 </a>
 
 <br/><br/>
 
 <div align='center' >
-🔭 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">𝑺𝑺𝑨𝑭𝒀<a/>에 다니고 있습니다 (2022.07~2023.06)<br/><br/>
-🌱 𝙉𝙚𝙭𝙩.𝙟𝙨, 𝙩𝙝𝙧𝙚𝙚.𝙟𝙨, 𝙧𝙚𝙖𝙘𝙩-𝙦𝙪𝙚𝙧𝙮와 같이 인기있는 기술을 공부하고 있습니다.<br/><br/>
-⚡ 𝑺𝒐𝒍𝒊𝒅.𝒋𝒔, 𝑺𝒕𝒊𝒕𝒄𝒉𝒆𝒔와 같은 성능개선 라이브러리에 관심이 있습니다.<br/><br/>
+⚡ <a href="https://www.tmax.co.kr/tmaxfintech">𝑻𝒎𝒂𝒙 𝑭𝒊𝒏𝒕𝒆𝒄𝒉<a/>에 다니고 있습니다 (2023.08~)<br/><br/>
+🔭 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">𝑺𝑺𝑨𝑭𝒀<a/>8기를 수료했습니다 (2022.07~2023.06)<br/><br/>
+🌱 𝙉𝙚𝙭𝙩.𝙟𝙨, 𝙩𝙝𝙧𝙚𝙚.𝙟𝙨, 𝙧𝙚𝙖𝙘𝙩-𝙦𝙪𝙚𝙧𝙮와 같은 기술에 흥미가 있습니다.<br/><br/>
 </div>
 </div>
 	
