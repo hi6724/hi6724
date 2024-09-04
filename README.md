@@ -14,8 +14,7 @@
 
 <div align="center">
 <a align="center" href="https://hunmogu.com/">
-<img align="center" width='250' src="https://github.com/hi6724/hi6724/blob/main/hunmok.png?raw=true" />
-
+<img align="center" width='250' src="https://github.com/hi6724/hi6724/blob/main/hunmogu_qr.png?raw=true" />
 </a>
 
 <br/><br/>
