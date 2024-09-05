@@ -1,6 +1,6 @@
 <img align="center" width='100%' src="https://github.com/hi6724/hi6724/raw/main/bg.png" />
 <br/>
-<h1 align="center">𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑯𝑨𝑯𝑼𝑵𝑴𝑶𝑲  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br/><br/></h1>
+<h1 align="center">𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑯𝑼𝑵𝑴𝑶𝑮𝑼  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br/><br/></h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi6724%2Fhit-counter&count_bg=%23047C5A&title_bg=%23DD3E59&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hunmok1027@gmail.com) 
