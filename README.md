@@ -20,7 +20,8 @@
 <br/><br/>
 
 <div align='center' >
-⚡ <a href="https://www.tmax.co.kr/tmaxfintech">𝑻𝒎𝒂𝒙 𝑭𝒊𝒏𝒕𝒆𝒄𝒉<a/>에 다니고 있습니다 (2023.08~)<br/><br/>
+⚡ <a href="https://www.kbstar.com/">KB국민은행<a/>에 다니고 있습니다 (2024.12~)<br/><br/>
+⚡ <a href="https://www.tmax.co.kr/tmaxfintech">𝑻𝒎𝒂𝒙 𝑭𝒊𝒏𝒕𝒆𝒄𝒉<a/>에서 프론트엔드 개발자로 재직하였습니다. (2023.08~2024.10)<br/><br/>
 🔭 <a href="https://velog.io/@hunmok1027/SSAFY8%EA%B8%B0%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0">𝑺𝑺𝑨𝑭𝒀<a/>8기를 수료했습니다 (2022.07~2023.06)<br/><br/>
 🌱 𝙉𝙚𝙭𝙩.𝙟𝙨, 𝙩𝙝𝙧𝙚𝙚.𝙟𝙨, 𝙧𝙚𝙖𝙘𝙩-𝙦𝙪𝙚𝙧𝙮와 같은 기술에 흥미가 있습니다.<br/><br/>
 </div>
